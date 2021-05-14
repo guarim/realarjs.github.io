@@ -1,0 +1,294 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter"
+  },
+  "scenes": [
+    {
+      "nodes": [
+        3,
+        5,
+        6
+      ],
+      "name": "defaultScene"
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "name": "node_MeshObject521534080-PolyPaper8",
+      "mesh": 0
+    },
+    {
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.004534639887635576,
+        -1.174004184185492,
+        -0.122138823830034,
+        1
+      ],
+      "children": [
+        0
+      ]
+    },
+    {
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -0.004534639887635576,
+        1.174004184185492,
+        0.122138823830034,
+        1
+      ],
+      "extras": {
+        "isTransformNode": 1
+      },
+      "children": [
+        1
+      ]
+    },
+    {
+      "children": [
+        2
+      ]
+    },
+    {
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -0.1947760436090703,
+        0.09738802180453517,
+        0.09738802180453517,
+        1
+      ],
+      "name": "headLightNode",
+      "extras": {
+        "isHeadLight": 1,
+        "gltfExtensions": {
+          "KHR_lights_punctual": {
+            "light": 0
+          }
+        }
+      }
+    },
+    {
+      "matrix": [
+        0.9669368635291471,
+        -8.673617379884035e-19,
+        0.25501588567855055,
+        0,
+        0.012006760335775479,
+        0.9988910088005474,
+        -0.04552570969972876,
+        0,
+        -0.25473307530561246,
+        0.04708240156815206,
+        0.9658645390570669,
+        0,
+        -0.1530154101924837,
+        1.201436309929714,
+        0.6851414185088698,
+        1
+      ],
+      "camera": 0,
+      "children": [
+        4
+      ]
+    },
+    {
+      "matrix": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        -0.08031215669498494,
+        0.16062431338996988,
+        -0.08031215669498498,
+        0,
+        -0.2015820922416536,
+        1.589943668451355,
+        -0.06254413396494243,
+        1
+      ],
+      "name": "keyLightNode",
+      "extras": {
+        "isKeyLight": 1,
+        "gltfExtensions": {
+          "KHR_lights_punctual": {
+            "light": 1
+          }
+        }
+      }
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1472,
+      "target": 34962,
+      "byteStride": 16
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1472,
+      "byteLength": 1104,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2576,
+      "byteLength": 1104,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3680,
+      "byteLength": 216,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3896,
+      "uri": "data:application/octet-stream;base64,A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/d3BYPeWoBj0AAIA/A1VoP3dwWD3lqAY9AACAPwNVaD93cFg95agGPQAAgD8DVWg/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"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 92,
+      "max": [
+        0.9075471758842468,
+        0.05284162983298302,
+        0.0328759141266346,
+        1
+      ],
+      "min": [
+        0.9075471758842468,
+        0.05284162983298302,
+        0.0328759141266346,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 92,
+      "max": [
+        0.9996364116668701,
+        0.7809135317802429,
+        0.9935019612312317
+      ],
+      "min": [
+        -0.9996364712715149,
+        -0.7397269606590271,
+        -0.9973768591880798
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 92,
+      "max": [
+        0.11891492456197739,
+        1.2944653034210205,
+        0.19067078828811646
+      ],
+      "min": [
+        -0.12437658756971359,
+        1.026845932006836,
+        0.05701097100973129
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 108,
+      "max": [
+        91
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0.6
+      },
+      "name": "BlocksPaper"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "COLOR_0": 0,
+            "NORMAL": 1,
+            "POSITION": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "cameras": [
+    {
+      "type": "perspective",
+      "perspective": {
+        "aspectRatio": 1,
+        "yfov": 0.7853981633974483,
+        "zfar": 2000000,
+        "znear": 0.1000000014901161
+      }
+    }
+  ]
+}
