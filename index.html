@@ -18,11 +18,11 @@
             embedded
             gesture-detector
         >
-            <a-assets>
-                <a-asset-item
-                    id="animated-asset"
-                    src="https://raw.githubusercontent.com/guarim/realarjs.github.io/main/Abeille qui virevolte.glb"
-                ></a-asset-item>
+            <a-image>
+                <a-image-item
+                    id="animated-image"
+                    src="https://raw.githubusercontent.com/guarim/realarjs.github.io/main/procedure1.png"
+                ></a-image-item>
             </a-assets>
 
             <a-marker
@@ -41,7 +41,7 @@
                     position="1 1 1"
                     scale="0.1432144704496557 0.1432144704496557 0.1432144704496557"
                     animation-mixer="loop: repeat"
-                    gltf-model="#animated-asset"
+                    image-model="#animated-image"
                     class="clickable"
                     gesture-handler
                 ></a-entity>
